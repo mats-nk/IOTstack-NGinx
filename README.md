@@ -2,4 +2,5 @@
 
 NGinx as a frontend for IOTstack services
 
-gen script
+genjumppage.sh - Generate "index.html" from services in the directory .templates/
+
